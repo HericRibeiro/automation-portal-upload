@@ -1,8 +1,8 @@
-# 🛠️ Automação de Upload de Arquivos no Portal AIA
+# 🛠️ Automação de Upload de Arquivos em Portal 
 
 ## 📋 Sobre o Projeto
 
-Esta automação foi criada para realizar o upload de arquivos CSV em massa para um Portal, com base em uma lista de empresas extraída de um arquivo Excel.
+Esta automação foi criada para realizar o upload de arquivos CSV em massa em Portal, com base em uma lista de empresas extraída de um arquivo Excel.
 
 Além do upload, o sistema faz:
 
